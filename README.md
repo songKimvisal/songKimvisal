@@ -11,7 +11,7 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
   <!-- Column 1 -->
-  <div style="flex: 1; min-width: 300px; max-width: 45%;">
+  <div style="flex: 1; min-width: 300px;">
     <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
       <img width="12" />
@@ -31,7 +31,7 @@
     </p>
   </div>
   <!-- Column 2 -->
-  <div style="flex: 1; min-width: 300px; max-width: 45%;">
+  <div style="flex: 1; min-width: 300px;">
     <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
       <img width="12" />
