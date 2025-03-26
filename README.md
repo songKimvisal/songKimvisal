@@ -2,8 +2,8 @@
 <p align="left">Full-Stack Dev | Arch Linux User (btw) | Open-Source Enthusiast</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sithi-sak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Languages Graph" />
 </div>
 
 ---
@@ -42,7 +42,7 @@
 </div>
 
 <div align="right">
-  <img src="https://github.com/Sithi-sak/Sithi-sak/blob/845f0e84ee7ba9d038e74d6d3f950a99d3a028e7/gifs/gigachad.gif" height="150" alt="Gigachad" />
+  <img src="https://github.com/songKimvisal/songKimvisal/blob/845f0e84ee7ba9d038e74d6d3f950a99d3a028e7/gifs/gigachad.gif" height="150" alt="Gigachad" />
 </div>
 
 <br clear="both">
@@ -51,7 +51,7 @@
 
 <h3 align="left">🌐 Connect with Me</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/sithisak-leak/">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
@@ -71,15 +71,15 @@
 
 <h3 align="left">📊 Stats & Achievements</h3>
 <div align="center">
-  <img src="https://count.getloli.com/get/@:Sithi-sak?theme=rule34" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@:songKimvisal?theme=rule34" alt="Profile Views" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=Sithi-sak&theme=nord&column=5&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true" height="220" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=songKimvisal&theme=nord&column=5&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true" height="220" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/songKimvisal/songKimvisal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/songKimvisal/songKimvisal/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/output/github-snake.svg" width="100%" />
   </picture>
 </div>
