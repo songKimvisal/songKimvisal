@@ -1,9 +1,9 @@
 <h1 align="left">👋 Hey, I’m Song Kimvisal</h1>
-<p align="left">Full-Stack Dev | Arch Linux User (btw) | Open-Source Enthusiast</p>
+<p align="left">Full-Stack Developer | Arch Linux User (BTW) | Open-Source Enthusiast</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -42,7 +42,7 @@
 </div>
 
 <div align="right">
-  <img src="https://github.com/songKimvisal/songKimvisal/blob/845f0e84ee7ba9d038e74d6d3f950a99d3a028e7/gifs/gigachad.gif" height="150" alt="Gigachad" />
+  <img src="https://github.com/songKimvisal/songKimvisal/blob/main/.gifs/batman.gif" height="250" alt="Batman GIF" />
 </div>
 
 <br clear="both">
@@ -51,19 +51,23 @@
 
 <h3 align="left">🌐 Connect with Me</h3>
 <div align="left">
-  <a href="">
+  <a href="https://www.linkedin.com/in/songkimvisal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" alt="YouTube" />
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+  </a>
+  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" alt="YouTube" />
+  </a>
 </div>
 
 ---
 
 <h3 align="left">🚀 Featured Project</h3>
 <div align="left">
-  <a href="https://github.com/songKimvisal/AngkorWear">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AngkorWear Repo" />
+  <a href="https://github.com/songKimvisal/AngkorWear" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AngkorWear Repository" />
   </a>
 </div>
 
