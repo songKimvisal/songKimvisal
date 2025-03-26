@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Sithisak</h2>
+<h2 align="left">Hi 👋! My name is Song kimvisal </h2>
 
-<p align="center">i use arch, btw.</p>
+<p align="center">i use window and learn how to use arch linux.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="stats graph"  />
