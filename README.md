@@ -60,8 +60,8 @@
   </div>
 </div>
 
-<div align="right" >
-  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" height="250" alt="Batman Coding" />
+<div align="left" >
+  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" height="200" alt="Batman Coding" />
 </div>
 <br clear="both">
 
