@@ -61,7 +61,7 @@
 </div>
 
 <div align="right" >
-  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" height="150" alt="Batman Coding" />
+  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" height="250" alt="Batman Coding" />
 </div>
 <br clear="both">
 
