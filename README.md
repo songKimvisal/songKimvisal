@@ -28,12 +28,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
     </p>
   </div>
   <!-- Column 2 -->
   <div style="flex: 1; min-width: 300px;">
     <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"alt="androidstudio logo"/> 
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
       <img width="12" />
@@ -46,14 +50,19 @@
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux" title="Arch Linux" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
     </p>
   </div>
 </div>
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" height="250" alt="Batman Coding" />
+<div align="right" >
+  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" height="150" alt="Batman Coding" />
 </div>
-
 <br clear="both">
 
 ---
