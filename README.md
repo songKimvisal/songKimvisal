@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
   <!-- Column 1 -->
   <div style="flex: 1; min-width: 300px;">
