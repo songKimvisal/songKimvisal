@@ -104,7 +104,7 @@
 <div align="center">
   <img src="https://count.getloli.com/get/@:songKimvisal?theme=3d-num" alt="Profile Views" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=songKimvisal&theme=nord&column=5&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=songKimvisal&theme=monokai&column=5&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
