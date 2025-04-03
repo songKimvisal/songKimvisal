@@ -72,11 +72,7 @@
   <a href="https://www.linkedin.com/in/song-kimvisal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" alt="telegram logo" />
   </a>
-   
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" alt="telegram logo" />
-  </a>
-   
+ 
   <a href="https://t.me/T4ngerineee" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
