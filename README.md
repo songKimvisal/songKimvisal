@@ -2,7 +2,7 @@
 <p align="center"><em>I'm a third year student at Limkokwing Cambodia</em></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Top Languages" />
 </div>
 
