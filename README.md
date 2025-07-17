@@ -2,15 +2,20 @@
 <p align="center"><em>I'm a third year student at Limkokwing Cambodia</em></p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="GitHub Stats" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Top Languages" />
 </div>
 
----
 
-<h1 align="center">🛠️ Tech Stack</h1>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
   <!-- Column 1 -->
+  <div align="center" >
+  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" height="200" alt="Batman Coding" />
+</div>
+<br clear="both">
+
+<h1 align="center">🛠️ Tech Stack</h1>
   
  ### ✍🏻 Currently learning...
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -54,10 +59,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-<div align="center" >
-  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" height="200" alt="Batman Coding" />
-</div>
-<br clear="both">
+
 
 ---
 
