@@ -2,7 +2,6 @@
 <p align="center"><em>I'm a four year student at Limkokwing Cambodia</em></p>
 
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Top Languages" />
 </div>
 
@@ -74,36 +73,28 @@
 </div>
 
 ---
+<h2 align="left">🚀 Featured Projects</h2>
 
-<h2 align="left">🚀 Featured Project</h2>
 <div align="left">
   <a href="https://github.com/songKimvisal/AngkorWear" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AngkorWear Repository" />
   </a>
-  <p><em>A modern take on traditional Khmer fashion.</em></p>
+  <p><em>A modern e-commerce platform showcasing traditional Khmer fashion with contemporary design.</em></p>
 </div>
+
 <div align="left">
   <a href="https://github.com/Sithi-sak/lost-and-found-mobile-app" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=lost-and-found-mobile-app&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AngkorWear Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=lost-and-found-mobile-app&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Lost and Found Mobile App Repository" />
   </a>
-  <p><em> A app that help to find the lost item </em></p>
+  <p><em>A mobile app that helps users report and recover lost items within their community.</em></p>
 </div>
+
 <div align="left">
   <a href="https://github.com/songKimvisal/ExpensesTracker" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=ExpensesTracker&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt=ExpensesTracker Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=ExpensesTracker&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Expenses Tracker Repository" />
   </a>
-  <p><em> A app that help to find the lost item </em></p>
+  <p><em>A personal finance app for tracking daily expenses and managing budgets effectively.</em></p>
 </div>
-
----
-
-<h2 align="left">📊 Stats & Achievements</h2>
-<div align="center">
-  <img src="https://count.getloli.com/get/@:songKimvisal?theme=3d-num" alt="Profile Views" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=songKimvisal&theme=monokai&column=5&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="GitHub Trophies" />
-</div>
-
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
   <picture>
