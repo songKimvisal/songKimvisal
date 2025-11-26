@@ -91,9 +91,11 @@
 
 <div align="left">
   <a href="https://github.com/songKimvisal/ExpensesTracker" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=ExpensesTracker&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Expenses Tracker Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=ExpensesTracker&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&t=1" alt="Expenses Tracker Repository" />
   </a>
-  <p><em>A personal finance app for tracking daily expenses and managing budgets effectively.</em></p>
+</div>
+  </a>
+  <p><em>A personal finance app for tracking daily expenses and managing budgets</em></p>
 </div>
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
