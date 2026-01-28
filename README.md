@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I’m Song Kimvisal</h1>
-<p align="center"><em>I'm a four year student at Limkokwing Cambodia</em></p>
+<p align="center"><em>Fourth-year student at Limkokwing Cambodia.</em></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Top Languages" />
