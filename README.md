@@ -1,107 +1,165 @@
-<h1 align="center">👋 Hey, I’m Song Kimvisal</h1>
-<p align="center"><em>Fourth-year student at Limkokwing Cambodia.</em></p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="Top Languages" />
-</div>
 
+  ```
+ _   ___                _           _ 
+| | / (_)              (_)         | |
+| |/ / _ _ __ _____   ___ ___  __ _| |
+|    \| | '_ ` _ \ \ / / / __|/ _` | |
+| |\  \ | | | | | \ V /| \__ \ (_| | |
+\_| \_/_|_| |_| |_|\_/ |_|___/\__,_|_|
+                                                                            
+  ```
 
+**`Full-Stack Developer in Progress · Flutter Enthusiast · Designer at Heart`**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  <!-- Column 1 -->
-  <div align="center" >
-  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" height="200" alt="Batman Coding" />
-</div>
-<br clear="both">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=94E2D5&center=true&vCenter=true&width=500&lines=Building+things+that+matter.;4th+year+%40+Limkokwing+Cambodia.;React+Native+%7C+Flutter+%7C+UI%2FUX;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
-<h1 align="center">🛠️ Tech Stack</h1>
-  
-### ✍🏻 Currently learning...
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 📋 Languages
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎛️ Operating System
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-
-### 💾 Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-
-### 📚 Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 💻 Editors/IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android%20studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-### 🤖 Artificial Intelligence and Bots
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
----
-
-<h2 align="left">🌐 Connect with Me</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/song-kimvisal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" alt="telegram logo" />
-  </a>
- 
-  <a href="https://t.me/T4ngerineee" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
 </div>
 
 ---
-<h2 align="left">🚀 Featured Projects</h2>
 
-<div align="left">
-  <a href="https://github.com/songKimvisal/AngkorWear" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AngkorWear Repository" />
-  </a>
-  <p><em>A modern e-commerce platform showcasing traditional Khmer fashion with contemporary design.</em></p>
+
+### 👤 About Me
+
+I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Creative Technology, Cambodia**. I build mobile-first experiences with Flutter and React Native, and am leveling up in full-stack development with the MERN stack.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" width="500" />
 </div>
 
-<div align="left">
-  <a href="https://github.com/Sithi-sak/lost-and-found-mobile-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=lost-and-found-mobile-app&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Lost and Found Mobile App Repository" />
-  </a>
-  <p><em>A mobile app that helps users report and recover lost items within their community.</em></p>
-</div>
 
-<div align="left">
-  <a href="https://github.com/Sithi-sak/movie-booking-monorepo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=movie-booking-monorep&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&t=1" alt="movie-booking-monorep Repository" />
-  </a>
-</div>
-  </a>
-  <p><em>booking online movie ticket</em></p>
+---
+
+### 🛠️ Technology Stack
+
+**Currently learning**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=MongoDB&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+**Languages & Frameworks**
+
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=MongoDB&logoColor=white)
+
+**Tools & Editors**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe-illustrator&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&show_icons=true&hide_title=false&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" />
 </div>
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <img src="https://streak-stats.demolab.com?user=songKimvisal&hide_border=true&background=1e1e2e&stroke=cba6f7&ring=94e2d5&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=94e2d5&sideLabels=a6adc8&dates=585b70" height="150" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ AngkorWear</h3>
+      <a href="https://github.com/songKimvisal/AngkorWear">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AngkorWear" />
+      </a>
+      <p>A modern <strong>e-commerce platform</strong> celebrating traditional Khmer fashion. Combines cultural identity with clean, contemporary UI.</p>
+      <!-- <p>
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+      </p> -->
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Lost &amp; Found</h3>
+      <a href="https://github.com/Sithi-sak/lost-and-found-mobile-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=lost-and-found-mobile-app&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Lost and Found" />
+      </a>
+      <p>A community-driven <strong>mobile app</strong> that helps people report and recover lost items — real-world impact, simple UX.</p>
+      <!-- <p>
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
+      </p> -->
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Movie Booking</h3>
+      <a href="https://github.com/Sithi-sak/movie-booking-monorepo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=movie-booking-monorepo&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Movie Booking" />
+      </a>
+      <p>A full-stack <strong>monorepo</strong> for booking movie tickets online. Covers backend API, mobile client, and shared logic in one repo.</p>
+      <!-- <p>
+        <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=MongoDB&logoColor=white" />
+      </p> -->
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔮 More Coming Soon...</h3>
+      <br/>
+      <p>Always building. Always shipping. Check back for the next one.</p>
+      <br/>
+      <a href="https://github.com/songKimvisal?tab=repositories">
+        <img src="https://img.shields.io/badge/View%20All%20Repos-%2394e2d5.svg?style=for-the-badge&logo=github&logoColor=1e1e2e" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/songKimvisal/songKimvisal/blob/output/snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/songKimvisal/songKimvisal/blob/output/snake.svg" />
     <img src="https://github.com/songKimvisal/songKimvisal/blob/output/snake.svg" alt="GitHub Contribution Snake" width="100%" />
   </picture>
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/song-kimvisal)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/T4ngerineee)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=songKimvisal&style=flat-square&color=94e2d5&label=Profile+Views" />
+</div>
+
+<div align="center">
+  <sub>Crafted with 🖤 in Phnom Penh, Cambodia</sub>
 </div>
