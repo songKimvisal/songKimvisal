@@ -3,26 +3,16 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,100:4dffd2&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-```
- _   ___                _           _
-| | / (_)              (_)         | |
-| |/ / _ _ __ _____   ___ ___  __ _| |
-|    \| | '_ ` _ \ \ / / / __|/ _` | |
-| |\  \ | | | | | \ V /| \__ \ (_| | |
-\_| \_/_|_| |_| |_|\_/ |_|___/\__,_|_|
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=00FF9D&center=true&vCenter=true&width=540&lines=%24+whoami+%E2%80%94+Song+Kimvisal;%24+status+%E2%80%94+4th+year+%40+Limkokwing+Cambodia;%24+stack+%E2%80%94+Flutter+%7C+React+Native+%7C+MERN;%24+focus+%E2%80%94+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<table width="100%"><tr><td>
+## `$ cat profile.json`
 
-```bash
-$ cat profile.json
-```
+<table width="100%"><tr>
+<td valign="top">
 
 ```json
 {
@@ -38,11 +28,13 @@ $ cat profile.json
 }
 ```
 
-</td><td align="center" width="450">
+</td>
+<td align="center" width="400">
 
-<img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" width="450" />
+<img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" width="360" />
 
-</td></tr></table>
+</td>
+</tr></table>
 
 ---
 
@@ -52,19 +44,16 @@ $ cat profile.json
 <tr>
 <td width="50%" valign="top">
 
-```
-> learning.now
-```
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=MongoDB&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+**Mobile & Web**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 
-```
-> languages.cfg
-```
+**Languages**
+
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -73,18 +62,16 @@ $ cat profile.json
 </td>
 <td width="50%" valign="top">
 
-```
-> databases.list
-```
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=MongoDB&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+**Databases**
 
-```
-> tools.env
-```
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=MongoDB&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Design**
+
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
@@ -115,57 +102,42 @@ $ cat profile.json
 ## `$ ls ./projects`
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-
-```
-> ./AngkorWear
-```
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://github.com/songKimvisal/AngkorWear">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&hide_border=true&bg_color=0d0d18&text_color=d0d0e8&icon_color=9d7fff&title_color=00ff9d" />
 </a>
 
-A modern **e-commerce platform** celebrating traditional Khmer fashion — cultural identity meets clean, contemporary UI.
+E-commerce platform celebrating **traditional Khmer fashion** — cultural identity meets contemporary UI.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 </td>
-    <td width="50%" valign="top">
-      <br/>
-
-```
-> ./lost-and-found
-```
+<td width="50%" valign="top">
 
 <a href="https://github.com/Sithi-sak/lost-and-found-mobile-app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=lost-and-found-mobile-app&hide_border=true&bg_color=0d0d18&text_color=d0d0e8&icon_color=9d7fff&title_color=00ff9d" />
 </a>
 
-Community-driven **mobile app** to report and recover lost items — real-world impact, simple UX.
+Community-driven app to **report and recover lost items** — real-world impact, simple UX.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-
-```
-> ./SabayBook
-```
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://github.com/Sithi-sak/movie-booking-monorepo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=movie-booking-monorepo&hide_border=true&bg_color=0d0d18&text_color=d0d0e8&icon_color=9d7fff&title_color=00ff9d" />
 </a>
 
-Full-stack **cinema booking monorepo** — API, mobile client, shared logic under one roof. Seat concurrency handled right.
+Full-stack **cinema booking monorepo** — API, mobile client, shared logic, seat concurrency handled right.
 
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
@@ -173,12 +145,7 @@ Full-stack **cinema booking monorepo** — API, mobile client, shared logic unde
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 </td>
-    <td width="50%" valign="top">
-      <br/>
-
-```
-> ./next_project [PENDING]
-```
+<td width="50%" valign="top" align="center">
 
 <br/>
 
@@ -194,7 +161,7 @@ The next one is already in progress.
 </a>
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
