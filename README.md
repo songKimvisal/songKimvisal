@@ -18,7 +18,7 @@
 
 ---
 
-<table width="100%"><tr><td>
+<table width="100%"><tr><td valign="top">
 
 ```bash
 $ cat profile.json
@@ -38,9 +38,9 @@ $ cat profile.json
 }
 ```
 
-</td><td align="center" width="450">
+</td><td align="center" width="410">
 
-<img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" width="450" />
+<img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" width="400" />
 
 </td></tr></table>
 
@@ -53,18 +53,17 @@ $ cat profile.json
 <td width="50%" valign="top">
 
 ```
-> learning.now
+> frameworks.stack
 ```
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=MongoDB&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 
 ```
 > languages.cfg
 ```
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -76,11 +75,11 @@ $ cat profile.json
 ```
 > databases.list
 ```
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ```
 > tools.env
@@ -103,8 +102,10 @@ $ cat profile.json
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&show_icons=true&hide_border=true&bg_color=0d0d18&text_color=d0d0e8&icon_color=9d7fff&title_color=00ff9d&rank_icon=github" height="165"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d18&text_color=d0d0e8&title_color=00ff9d&card_width=285" height="165"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=songKimvisal&hide_border=true&background=0d0d18&stroke=1e1e35&ring=00ff9d&fire=ff4d6d&currStreakNum=d0d0e8&sideNums=d0d0e8&currStreakLabel=00ff9d&sideLabels=7070a0&dates=404060" height="160"/>
 
@@ -117,7 +118,6 @@ $ cat profile.json
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <br/>
 
 ```
 > ./AngkorWear
@@ -135,7 +135,6 @@ A modern **e-commerce platform** celebrating traditional Khmer fashion — cultu
 
 </td>
     <td width="50%" valign="top">
-      <br/>
 
 ```
 > ./lost-and-found
@@ -155,7 +154,6 @@ Community-driven **mobile app** to report and recover lost items — real-world 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <br/>
 
 ```
 > ./SabayBook
@@ -174,7 +172,6 @@ Full-stack **cinema booking monorepo** — API, mobile client, shared logic unde
 
 </td>
     <td width="50%" valign="top">
-      <br/>
 
 ```
 > ./next_project [PENDING]
