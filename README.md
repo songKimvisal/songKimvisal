@@ -11,27 +11,39 @@
 
 **`Full-Stack Developer in Progress · Flutter Enthusiast · Designer at Heart`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=94E2D5&center=true&vCenter=true&width=520&lines=Building+things+that+matter.;4th+year+%40+Limkokwing+Cambodia.;React+Native+%7C+Flutter+%7C+MERN;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=94E2D5&center=true&vCenter=true&width=520&lines=Building+things+that+matter.;4th+year+%40+Limkokwing+Cambodia.;Flutter+%7C+React+Native+%7C+MERN;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👤 &nbsp;About Me
+<br/>
 
-I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Creative Technology, Cambodia**. I build mobile-first experiences with Flutter and React Native, and am leveling up in full-stack development with the MERN stack. I care about both the code and the design behind every product I ship.
+## 👤 &nbsp; About Me
+
+I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Creative Technology, Cambodia**.
+I build mobile-first experiences with **Flutter** and **React Native**, and am leveling up in full-stack with the **MERN stack**.
+I care about both the engineering and the design behind every product I ship — from architecture down to pixel-perfect UI.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" width="480" />
+  <img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" width="460" />
 </div>
+
+`📍 Phnom Penh` &nbsp; `🎓 Final Year` &nbsp; `🏗️ Building PhsarOne` &nbsp; `📱 Mobile-First` &nbsp; `🎨 UI / UX`
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛠️ &nbsp;Tech Stack
+<br/>
+
+## 🛠️ &nbsp; Tech Stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 **`// Currently Learning`**
 
@@ -48,6 +60,9 @@ I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Cr
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 **`// Databases`**
 
@@ -66,27 +81,35 @@ I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Cr
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
-<br/>
-
----
-
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&rank_icon=github" height="155" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="155" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=songKimvisal&hide_border=true&background=1e1e2e&stroke=cba6f7&ring=94e2d5&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=94e2d5&sideLabels=a6adc8&dates=585b70" height="155" />
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 &nbsp;Featured Projects
+<br/>
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=songKimvisal&show_icons=true&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&rank_icon=github" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=songKimvisal&locale=en&layout=compact&card_width=290&langs_count=6&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=songKimvisal&hide_border=true&background=0d1117&stroke=cba6f7&ring=94e2d5&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=94e2d5&sideLabels=a6adc8&dates=585b70" height="155" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🚀 &nbsp; Featured Projects
 
 <table width="100%">
   <tr>
@@ -94,9 +117,9 @@ I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Cr
       <br/>
       <h3>🛍️ AngkorWear</h3>
       <a href="https://github.com/songKimvisal/AngkorWear">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AngkorWear" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="AngkorWear" />
       </a>
-      <p>A modern <strong>e-commerce platform</strong> celebrating traditional Khmer fashion — where cultural identity meets clean, contemporary UI.</p>
+      <p>A modern <strong>e-commerce platform</strong> celebrating traditional Khmer fashion — cultural identity meets clean, contemporary UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" />
@@ -107,7 +130,7 @@ I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Cr
       <br/>
       <h3>🔍 Lost &amp; Found</h3>
       <a href="https://github.com/Sithi-sak/lost-and-found-mobile-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=lost-and-found-mobile-app&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Lost and Found" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=lost-and-found-mobile-app&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Lost and Found" />
       </a>
       <p>A community-driven <strong>mobile app</strong> to report and recover lost items — real-world impact through simple, intuitive UX.</p>
       <p>
@@ -122,9 +145,9 @@ I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Cr
       <br/>
       <h3>🎬 SabayBook</h3>
       <a href="https://github.com/Sithi-sak/movie-booking-monorepo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=movie-booking-monorepo&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="SabayBook" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sithi-sak&repo=movie-booking-monorepo&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="SabayBook" />
       </a>
-      <p>A full-stack <strong>cinema booking monorepo</strong> — API, mobile client, and shared logic under one roof. Seat concurrency handled right.</p>
+      <p>Full-stack <strong>cinema booking monorepo</strong> — API, mobile client, and shared logic under one roof. Seat concurrency handled right.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
@@ -139,7 +162,7 @@ I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Cr
       <p>Always building. Always shipping.<br/>The next one is already in progress.</p>
       <br/><br/>
       <a href="https://github.com/songKimvisal?tab=repositories">
-        <img src="https://img.shields.io/badge/View%20All%20Repos-%2394e2d5.svg?style=for-the-badge&logo=github&logoColor=1e1e2e" />
+        <img src="https://img.shields.io/badge/View%20All%20Repos-%2394e2d5.svg?style=for-the-badge&logo=github&logoColor=0d1117" />
       </a>
     </td>
   </tr>
@@ -147,9 +170,11 @@ I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Cr
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🐍 &nbsp;Contribution Activity
+<br/>
+
+## 🐍 &nbsp; Contribution Activity
 
 <div align="center">
   <picture>
@@ -161,9 +186,11 @@ I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Cr
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🌐 &nbsp;Let's Connect
+<br/>
+
+## 🌐 &nbsp; Let's Connect
 
 <div align="center">
 
@@ -173,8 +200,6 @@ I'm **Song Kimvisal**, a fourth-year IT student at **Limkokwing University of Cr
 </div>
 
 <br/>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=songKimvisal&style=flat-square&color=94e2d5&label=Profile+Views" />
