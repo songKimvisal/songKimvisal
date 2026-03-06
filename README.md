@@ -38,9 +38,9 @@ $ cat profile.json
 }
 ```
 
-</td><td align="center" width="220">
+</td><td align="center" width="450">
 
-<img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" width="180" />
+<img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/main/.gifs/batman.gif" width="450" />
 
 </td></tr></table>
 
