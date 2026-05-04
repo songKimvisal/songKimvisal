@@ -13,6 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cvc)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:songkimvisal21@gmail.com)
+[![Youtube](https://img.shields.io/badge/Youtube-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BatDeveloper)
 
 </div>
 
