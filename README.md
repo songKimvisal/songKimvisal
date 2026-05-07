@@ -1,32 +1,22 @@
 <div align="center">
 
-```
-░██████╗░█████╗░███╗░░██╗░██████╗░  ██╗░░██╗██╗███╗░░░███╗██╗░░░██╗██╗░██████╗░█████╗░██╗░░░░░
-██╔════╝██╔══██╗████╗░██║██╔════╝░  ██║░██╔╝██║████╗░████║██║░░░██║██║██╔════╝██╔══██╗██║░░░░░
-╚█████╗░██║░░██║██╔██╗██║██║░░██╗░  █████═╝░██║██╔████╔██║╚██╗░██╔╝██║╚█████╗░███████║██║░░░░░
-░╚═══██╗██║░░██║██║╚████║██║░░╚██╗  ██╔═██╗░██║██║╚██╔╝██║░╚████╔╝░██║░╚═══██╗██╔══██║██║░░░░░
-██████╔╝╚█████╔╝██║░╚███║╚██████╔╝  ██║░╚██╗██║██║░╚═╝░██║░░╚██╔╝░░██║██████╔╝██║░░██║███████╗
-╚═════╝░░╚════╝░╚═╝░░╚══╝░╚═════╝░  ╚═╝░░╚═╝╚═╝╚═╝░░░░╚═╝░░░╚═╝░░░╚═╝╚═════╝░╚═╝░░╚═╝╚══════╝
-```
+# Song Kimvisal
 
-### Full-Stack Developer · Flutter Enthusiast · Creative Technologist
+**Full-Stack Developer · Flutter Enthusiast · Creative Technologist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cvc)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:songkimvisal21@gmail.com)
-[![Youtube](https://img.shields.io/badge/Youtube-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BatDeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cvc)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:songkimvisal21@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@BatDeveloper)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-> *Building things that matter — one commit at a time.*
+Final-year **Software Engineering with Multimedia** student at **Limkokwing University**, based in Phnom Penh 🇰🇭.
 
-- 🎓 Final-year **Software Engineering with Multimedia** student at **Limkokwing University**
-- 🚀 Currently crafting **PhsarOne** — an AI-powered marketplace app for Cambodia
-- 🌱 Exploring the intersection of **mobile UX**, **AI integration**, and **backend systems**
-- 🇰🇭 Based in **Phnom Penh, Cambodia**
+Exploring the intersection of mobile development, UX/UI design,and backend systems.
 
 ---
 
@@ -77,26 +67,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=songKimvisal&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://nirzak-streak-stats.vercel.app/?user=songKimvisal&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>✨ Crafted with curiosity & caffeine · Phnom Penh, Cambodia 🇰🇭</sub>
+  <sub>Built with curiosity & caffeine · Phnom Penh, Cambodia 🇰🇭</sub>
 </div>
