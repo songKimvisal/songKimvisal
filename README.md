@@ -71,7 +71,9 @@ Exploring the intersection of mobile development, UX/UI design,and backend syste
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=songKimvisal&theme=tokyonight&hide_border=true" height="165"/>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=songKimvisal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 </div>
 
