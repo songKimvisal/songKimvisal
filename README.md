@@ -71,14 +71,26 @@ Exploring the intersection of mobile development, UX/UI design,and backend syste
 
 <div align="center">
 
-<div data-importer="stats" align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=songKimvisal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 </div>
 
 ---
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/songKimvisal/songKimvisal/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/songKimvisal/songKimvisal/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/songKimvisal/songKimvisal/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 <div align="center">
   <sub>Built with curiosity & caffeine · Phnom Penh, Cambodia 🇰🇭</sub>
 </div>
