@@ -14,9 +14,15 @@
 
 ## About Me
 
-Final-year **Software Engineering with Multimedia** student at **Limkokwing University**, based in Phnom Penh 🇰🇭.
+Fresh **Software Engineering** graduate from **Limkokwing University**, based in Phnom Penh 🇰🇭
 
-Exploring the intersection of mobile development, UX/UI design,and backend systems.
+I turn ideas into working apps, from the database to the screen, and I ship things people actually enjoy using.
+
+- 🔧 Building REST APIs with Node.js, Express, Prisma, and PostgreSQL
+- 📱 Creating cross-platform apps with Flutter and React Native
+- 💳 Integrating payments with Bakong KHQR and Stripe
+- 🏛️ Interned at the Ministry of Post and Telecommunications (HRMIS app)
+- 🚀 Currently looking for my first role in software development
 
 ---
 
